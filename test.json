@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "TaskMaster",
+    "subtitle": "Organize your day, master your goals"
+  },
+  "buttons": {
+    "add_task": "Add Task",
+    "edit_task": "Edit Task",
+    "delete_task": "Delete Task",
+    "complete_task": "Mark as Complete",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "placeholders": {
+    "task_name": "Enter task name",
+    "task_description": "Enter task description",
+    "search_tasks": "Search tasks..."
+  },
+  "messages": {
+    "task_completed": "Task marked as complete!",
+    "task_deleted": "Task deleted successfully.",
+    "task_saved": "Task saved successfully.",
+    "error_generic": "Something went wrong. Please try again.",
+    "empty_state": "No tasks yet. Start by adding a new one!"
+  },
+  "sections": {
+    "today": "Today",
+    "upcoming": "Upcoming",
+    "completed": "Completed",
+    "overdue": "Overdue"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "dark_mode": "Dark Mode",
+    "account": "Account"
+  }
+}
