@@ -1,1 +1,32 @@
-{}
+{
+  "strings": {
+    "edit_project": "Edit Project",
+    "delete_project": "Delete Project",
+    "confirm_delete_project": "Are you sure you want to delete this project? This action cannot be undone.",
+    "manage_team": "Manage Team / Collaborators",
+    "add_collaborator": "Add Collaborator",
+    "remove_collaborator": "Remove Collaborator",
+    "set_permissions": "Set Permissions",
+    "sync_settings": "Sync Settings",
+    "github_sync": "Sync with GitHub",
+    "duplicate_project": "Duplicate Project",
+    "export_project": "Export Project",
+    "download_data": "Download Project Data (JSON, CSV)",
+    "project_name": "Project Name",
+    "project_description": "Project Description",
+    "save_changes": "Save Changes",
+    "cancel": "Cancel",
+    "team_members": "Team Members",
+    "status_active": "Active",
+    "status_completed": "Completed",
+    "status_on_hold": "On Hold",
+    "archive_project": "Archive Project",
+    "unarchive_project": "Unarchive Project",
+    "no_projects_found": "No projects found.",
+    "create_new_project": "Create New Project",
+    "search_projects": "Search Projects",
+    "project_settings": "Project Settings",
+    "loading": "Loading...",
+    "error_occurred": "An error occurred. Please try again."
+  }
+}
