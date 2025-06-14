@@ -1,0 +1,22 @@
+{
+  "error.network": "[ES-ES] Network error. Please check your connection.",
+  "error.404": "[ES-ES] Page not found.",
+  "error.500": "[ES-ES] Internal server error. Please try again later.",
+  "error.unauthorized": "[ES-ES] You are not authorized to perform this action.",
+  "error.forbidden": "[ES-ES] Access denied.",
+  "error.timeout": "[ES-ES] Request timed out. Please try again.",
+  "error.form.invalid": "[ES-ES] Some fields are invalid. Please review and try again.",
+  "error.required": "[ES-ES] This field is required.",
+  "error.email.invalid": "[ES-ES] The email address is not valid.",
+  "error.password.mismatch": "[ES-ES] Passwords do not match.",
+  "error.upload.failed": "[ES-ES] File upload failed. Please try again.",
+  "error.save.failed": "[ES-ES] Could not save your changes. Please try again.",
+  "error.delete.failed": "[ES-ES] Failed to delete the item. Please try again.",
+  "error.unsupported.format": "[ES-ES] Unsupported file format.",
+  "error.tooManyRequests": "[ES-ES] Too many requests. Please wait a moment and try again.",
+  "error.session.expired": "[ES-ES] Your session has expired. Please log in again.",
+  "error.server.unreachable": "[ES-ES] The server is currently unreachable.",
+  "error.validation": "[ES-ES] Validation error. Please check your input.",
+  "error.notFound": "[ES-ES] The requested resource was not found.",
+  "error.generic": "[ES-ES] An unexpected error has occurred."
+}
