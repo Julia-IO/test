@@ -1,10 +1,5 @@
 {
     "edit_project": "Edit Project",
     "delete_project": "Delete Project",
-    "confirm_delete_project": "Are you sure you want to delete this project? This action cannot be undone.",
-    "set_permissions": "Set Permissions",
-    "sync_settings": "Sync Settings",
-    "github_sync": "Sync with GitHub",
-    "loading": "Loading...",
-    "error_occurred": "An error occurred. Please try again."
+    "confirm_delete_project": "Are you sure you want to delete this project? This action cannot be undone."
 }
