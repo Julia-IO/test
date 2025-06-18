@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Ste si naozaj istí, že chcete vymazať tento projekt? Túto akciu nie je možné vrátiť späť.",
+  "delete_project": "Zrušiť projekt",
+  "edit_project": "Upraviť projekt",
+  "error.404": "Stránka sa nenašla.",
+  "error.network": "Problém s pripojením. Skontrolujte prosím svoje internetové pripojenie."
 }
