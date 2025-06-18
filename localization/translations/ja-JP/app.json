@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "このプロジェクトを削除してもよろしいですか?一度削除すると元に戻すことはできません。",
+  "delete_project": "プロジェクトを削除する",
+  "edit_project": "プロジェクトを修正する",
+  "error.404": "ページが見つかりませんでした。",
+  "error.network": "ネットワークに接続できませんでした。接続状況をご確認ください。"
 }
