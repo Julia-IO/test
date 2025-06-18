@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Biztosan törölni akarod ezt a projektet? Ez a művelet nem vonható vissza.",
+  "delete_project": "Projekt törlése",
+  "edit_project": "Projekt szerkesztése",
+  "error.404": "Az oldal nem található.",
+  "error.network": "Hálózati hiba. Ellenőrizd a kapcsolatot."
 }
