@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Bu projeyi silmek istediğinden emin misin? Bu işlem geri alınamaz.",
+  "delete_project": "Projeyi Sil",
+  "edit_project": "Projeyi Düzenle",
+  "error.404": "Sayfa bulunamadı.",
+  "error.network": "Ağ bağlantısı hatası. Lütfen internet bağlantınızı kontrol edin."
 }
