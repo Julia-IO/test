@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Jeste li sigurni da želite izbrisati ovaj projekt? Ova radnja se ne može poništiti.",
+  "delete_project": "Izbriši projekt",
+  "edit_project": "Uredi projekt",
+  "error.404": "Stranica nije pronađena.",
+  "error.network": "Došlo je do mrežne pogreške. Provjerite svoju internetsku vezu."
 }
