@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "您確定要刪除這個[專案]嗎?這個動作無法復原。",
+  "delete_project": "刪除該專案",
+  "edit_project": "修改專案",
+  "error.404": "頁面找不到。",
+  "error.network": "網路連線出現問題。請檢查您的網路連線。"
 }
