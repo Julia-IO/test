@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Weet je zeker dat je dit project wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
+  "delete_project": "Verwijder project",
+  "edit_project": "Projectwijzigen",
+  "error.404": "De pagina is niet gevonden.",
+  "error.network": "Er is een probleem met het netwerk. Controleer alsjeblieft je internetverbinding."
 }
