@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Czy na pewno chcesz usunąć ten projekt? Tej operacji nie można cofnąć.",
+  "delete_project": "Usuń projekt",
+  "edit_project": "Edytuj projekt",
+  "error.404": "Nie znaleziono strony.",
+  "error.network": "Błąd połączenia. Sprawdź swoją sieć."
 }
