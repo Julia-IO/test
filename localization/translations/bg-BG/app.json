@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Наистина ли искате да изтриете този проект? Това действие не може да бъде отменено.",
+  "delete_project": "Изтрий проекта",
+  "edit_project": "Редактиране на проект",
+  "error.404": "Страницата не е открита.",
+  "error.network": "Сривана връзка. Провери връзката си."
 }
