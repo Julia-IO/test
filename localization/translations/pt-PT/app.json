@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Tens a certeza de que queres eliminar este projeto? Esta ação não pode ser revertida.",
+  "delete_project": "Eliminar o projeto",
+  "edit_project": "Editar o projeto",
+  "error.404": "Ops, esta página não foi encontrada.",
+  "error.network": "Erro de rede. Por favor, verifique a sua ligação."
 }
