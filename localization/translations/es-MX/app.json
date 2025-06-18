@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "¿Estás seguro de que quieres eliminar este proyecto? Esta acción no se puede deshacer.",
+  "delete_project": "Borrar proyecto",
+  "edit_project": "Editar el proyecto",
+  "error.404": "Lo siento, no se encuentra la página.",
+  "error.network": "Problema de conexión. Revisa tu conexión a internet."
 }
