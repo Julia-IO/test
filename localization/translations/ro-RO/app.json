@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Ești sigur că vrei să ștergi acest proiect? Această acțiune nu poate fi revocată.",
+  "delete_project": "Elimină proiectul",
+  "edit_project": "Editează proiectul",
+  "error.404": "Pagina nu a fost găsită.",
+  "error.network": "Eroare de rețea. Verifică-ți conexiunea, te rog."
 }
