@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "האם אתה בטוח שברצונך למחוק את הפרויקט הזה? לא ניתן לבטל את הפעולה הזו.",
+  "delete_project": "מחק את הפרויקט",
+  "edit_project": "ערוך פרויקט",
+  "error.404": "הדף לא נמצא",
+  "error.network": "רשת התנתקה. נא בדוק את החיבור שלך."
 }
