@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "An bhfuil tú cinnte gur mian leat an tionscadal seo a scriosadh? Ní féidir an ghníomhaíocht seo a chealú.",
+  "delete_project": "Scrios an Tionscadal",
+  "edit_project": "Cuir Tionscadal in Eagar",
+  "error.404": "Ní bhfuarthas an leathanach.",
+  "error.network": "Earráid líonra. Déan seiceáil ar do cheangal, le do thoil."
 }
