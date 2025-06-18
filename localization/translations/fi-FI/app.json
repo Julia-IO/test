@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Oletko varmasti halukas poistamaan tämän projektin? Tätä toimintoa ei voi perua.",
+  "delete_project": "Poista projekti",
+  "edit_project": "Muokkaa hanketta",
+  "error.404": "Sivua ei löydy.",
+  "error.network": "Verkkovirhe. Tarkista yhteytesi."
 }
