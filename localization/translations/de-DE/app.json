@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Bist du dir sicher, dass du dieses Projekt löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",
+  "delete_project": "Projekt löschen",
+  "edit_project": "Projekt bearbeiten",
+  "error.404": "Die Seite wurde leider nicht gefunden.",
+  "error.network": "Hoppla, da ist wohl etwas schiefgelaufen. Überprüfe bitte deine Internetverbindung."
 }
