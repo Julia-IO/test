@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Inti żgur li tixtieq tħassar dan il-proġett? Din l-azzjoni ma tistax tiġi mwettqa lura.",
+  "delete_project": "Neħħi l-Proġett",
+  "edit_project": "Ħassar il-Proġett",
+  "error.404": "Il-paġna ma tinstabx.",
+  "error.network": "Żball fil-network. Jekk jogħġbok iċċekkja l-konnessjoni tiegħek."
 }
