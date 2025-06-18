@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Apakah Anda yakin ingin menghapus proyek ini? Tindakan ini tidak dapat diurungkan.",
+  "delete_project": "Hapus Proyek",
+  "edit_project": "Sunting Proyek",
+  "error.404": "Halaman tidak dapat ditemukan.",
+  "error.network": "Terjadi kesalahan jaringan. Silakan periksa koneksi Anda."
 }
