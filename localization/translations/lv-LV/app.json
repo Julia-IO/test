@@ -1,5 +1,7 @@
 {
-  "edit_project": "",
-  "delete_project": "",
-  "confirm_delete_project": ""
+  "confirm_delete_project": "Vai tiešām vēlaties izdzēst šo projektu? Šo darbību nevar atsaukt.",
+  "delete_project": "Dzēst projektu",
+  "edit_project": "Rediģēt projektu",
+  "error.404": "Lapaspuse nav atrasta.",
+  "error.network": "Rodas tīkla kļūda. Lūdzu, pārbāudiet savu savienojumu."
 }
