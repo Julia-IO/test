@@ -1,7 +1,5 @@
 {
   "confirm_delete_project": "Är du säker på att du vill ta bort det här projektet? Den här åtgärden kan inte ångras.",
   "delete_project": "Ta bort projekt",
-  "edit_project": "Redigera projektet",
-  "error.404": "Sidan kunde inte hittas.",
-  "error.network": "Nätverksfel. Vänligen kontrollera din internetanslutning."
+  "edit_project": "Redigera projektet"
 }
