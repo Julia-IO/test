@@ -1,7 +1,5 @@
 {
   "confirm_delete_project": "Es-tu sûr de vouloir supprimer ce projet ? Cette action est définitive et ne peut pas être annulée.",
   "delete_project": "Supprimer le projet",
-  "edit_project": "Modifier le projet",
-  "error.404": "Page introuvable.",
-  "error.network": "Problème de connexion réseau. Veuillez vérifier votre connexion."
+  "edit_project": "Modifier le projet"
 }
