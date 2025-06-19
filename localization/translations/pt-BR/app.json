@@ -1,7 +1,5 @@
 {
   "confirm_delete_project": "Você tem certeza de que quer apagar este projeto? Essa ação não poderá ser desfeita.",
   "delete_project": "Excluir projeto",
-  "edit_project": "Editar Projeto",
-  "error.404": "Página não localizada.",
-  "error.network": "Parece que há um problema de conexão. Verifique sua internet e tente novamente."
+  "edit_project": "Editar Projeto"
 }
