@@ -1,7 +1,5 @@
 {
   "confirm_delete_project": "Sei sicuro di voler eliminare questo progetto? L'operazione non può essere annullata.",
   "delete_project": "Elimina il progetto",
-  "edit_project": "Modifica il progetto",
-  "error.404": "Pagina non trovata.",
-  "error.network": "Errore di connessione. Verifica la tua connessione di rete."
+  "edit_project": "Modifica il progetto"
 }
