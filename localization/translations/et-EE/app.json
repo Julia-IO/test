@@ -1,7 +1,0 @@
-{
-  "confirm_delete_project": "Kas oled kindel, et soovid seda projekti kustutada? Seda toimingut ei saa hiljem tühistada.",
-  "delete_project": "Projekti kustutamine",
-  "edit_project": "Redigeeri projekti",
-  "error.404": "Lehte ei leitud.",
-  "error.network": "Võrguühenduse viga. Palun kontrolli oma internetiühendust."
-}
