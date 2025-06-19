@@ -1,7 +1,5 @@
 {
   "confirm_delete_project": "Er du sikker på, at du vil slette dette projekt? Denne handling kan ikke fortrydes.",
   "delete_project": "Slet projektet",
-  "edit_project": "Redigér projekt",
-  "error.404": "Siden kunne ikke findes.",
-  "error.network": "Der er et netværksproblem. Kontroller venligst din internetforbindelse."
+  "edit_project": "Redigér projekt"
 }
