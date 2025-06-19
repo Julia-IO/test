@@ -1,7 +1,5 @@
 {
   "confirm_delete_project": "你确定要删除这个项目吗?这个操作是无法撤销的。",
   "delete_project": "删除该项目",
-  "edit_project": "修改项目",
-  "error.404": "404页面未找到",
-  "error.network": "网络出现故障。请检查您的网络连接。"
+  "edit_project": "修改项目"
 }
